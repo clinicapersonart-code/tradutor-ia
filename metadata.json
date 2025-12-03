@@ -1,0 +1,5 @@
+{
+  "name": "TranscrevaAI",
+  "description": "Ferramenta profissional de transcrição de áudio com suporte para arquivos longos e marcadores de tempo, utilizando Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
